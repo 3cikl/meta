@@ -1,0 +1,45 @@
+# ide and editor files
+.idea
+.project
+.classpath
+.cursor
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# system files
+.DS_Store
+Thumbs.db
+
+# temporary files
+tmp/*
+!tmp/.gitkeep
+
+# credentials files
+.secrets/
+
+# local files
+.local/
+
+# github files
+github_conf/
+
+# mise files
+mise.local.toml
+mise.*.local.toml
+
+# node modules
+node_modules/
+
+# containerization files
+Containerfile.local
+compose.local.yaml
+
+# llm
+.claude/agent-memory/

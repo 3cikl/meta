@@ -1,0 +1,5 @@
+#!/bin/sh
+
+#MISE description="Update the project's environment"
+
+uv sync

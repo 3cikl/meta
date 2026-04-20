@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#MISE description="Bootstrap environment"
+#MISE depends=["distro:pre-commit:install"]

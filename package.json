@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mariozechner/pi-coding-agent": "^0.67.68",
+    "@oh-my-pi/pi-coding-agent": "v13.18.0",
+    "@openai/codex": "^0.122.0",
+    "ccusage": "^18.0.10",
+    "meta": "^2.2.25"
+  }
+}
