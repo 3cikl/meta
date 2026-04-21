@@ -27,6 +27,5 @@ The template for new ADRs is in [_index.md](_index.md).
 
 | ID                                                         | Title                                           | Status     | Date       | Decision-makers |
 |------------------------------------------------------------|-------------------------------------------------|------------|------------|-----------------|
-| [0000](0000-use-madr-for-architecture-decision-records.md) | Use MADR for Architecture Decision Records      | `proposed` | 2026-04-15 | Aleksandar Buza |
-| [0001](0001-sdlc-workflow.md)                              | Use mise for Development Environment Management | `proposed` | 2026-04-15 | Aleksandar Buza |
-
+| [0000](0000-use-madr-for-architecture-decision-records.md) | Use MADR for Architecture Decision Records      | `accepted` | 2026-04-15 | Aleksandar Buza |
+| [0001](0001-sdlc-workflow.md)                              | SDLC workflow                                   | `accepted` | 2026-04-15 | Aleksandar Buza |

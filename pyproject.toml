@@ -1,12 +1,13 @@
 [project]
-name = "meta"
+name = "3cikl.meta"
 version = "0.1.0"
-description = "3cikl's GitHub meta-repository"
+description = "3cikl's meta-repository"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = []
 
 [dependency-groups]
 dev = [
+    "commit-check>=2.6.0",
     "pre-commit>=4.5.1",
 ]

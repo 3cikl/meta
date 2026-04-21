@@ -1,0 +1,5 @@
+#!/bin/sh
+
+#MISE description="Install dependencies for a package.json"
+
+bun install

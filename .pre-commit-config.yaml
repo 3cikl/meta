@@ -36,9 +36,8 @@ repos:
         types: [shell]
         require_serial: true
   # Git Hooks
-  - repo: https://github.com/compilerla/conventional-pre-commit.git
-    rev: v4.3.0
+  - repo: https://github.com/commit-check/commit-check
+    rev: v2.6.0
     hooks:
-      - id: conventional-pre-commit
-        stages: [commit-msg]
-        args: []
+      - id: check-message
+      - id: check-branch
