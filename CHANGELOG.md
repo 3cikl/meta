@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [0.2.0](https://github.com/3cikl/3cikl.meta/compare/e2739bdaa498087ccc2faa03128a069cdb929cd5..0.2.0) - 2026-04-21
+#### Features
+- (**meta**) add vault repository - ([83acadd](https://github.com/3cikl/3cikl.meta/commit/83acadd6aead7bb0eb7e6384572d59bcedcfe247)) - [@3cikl](https://github.com/3cikl)
+#### Miscellaneous Chores
+- (**mise**) bump tools - ([e2739bd](https://github.com/3cikl/3cikl.meta/commit/e2739bdaa498087ccc2faa03128a069cdb929cd5)) - [@3cikl](https://github.com/3cikl)
+
+- - -
+
 ## [0.1.0](https://github.com/3cikl/3cikl.meta/compare/e969ffb2cc262b3f2a93163d67e50d81b46d5a08..0.1.0) - 2026-04-21
 #### Features
 - (**meta**) add dotfiles repository - ([94110fa](https://github.com/3cikl/3cikl.meta/commit/94110fa69c31446ede0fa5b25137426954c9794c)) - [@3cikl](https://github.com/3cikl)
