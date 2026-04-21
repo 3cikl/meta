@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [0.3.1](https://github.com/3cikl/3cikl.meta/compare/5336a97b6abbc2d24dcd4f582901c0fb43a681f6..0.3.1) - 2026-04-21
+#### Bug Fixes
+- add .venv in gitignore - ([5336a97](https://github.com/3cikl/3cikl.meta/commit/5336a97b6abbc2d24dcd4f582901c0fb43a681f6)) - [@3cikl](https://github.com/3cikl)
+
+- - -
+
 ## [0.3.0](https://github.com/3cikl/3cikl.meta/compare/0fdfa974a46e616b5a71832b60eaf2594ad83245..0.3.0) - 2026-04-21
 #### Features
 - (**meta**) add mxsphere repository - ([0fdfa97](https://github.com/3cikl/3cikl.meta/commit/0fdfa974a46e616b5a71832b60eaf2594ad83245)) - [@3cikl](https://github.com/3cikl)
